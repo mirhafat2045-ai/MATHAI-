@@ -1,0 +1,6 @@
+{
+  "name": "MathAI - Universal Mathematics Solver & AI Tutor",
+  "description": "Comprehensive AI mathematics chatbot and step-by-step problem solver for algebra, calculus, geometry, statistics, and applied math.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
